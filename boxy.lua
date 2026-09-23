@@ -1,9 +1,9 @@
---function _update()
+--function _init()
 
 --end
 
---function _draw()
---rect(24, 24, 24, 24, 8)
+--[[
 
---end
+
+]]
 
