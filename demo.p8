@@ -2,6 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 43
 __lua__
 #include demo/demo.lua
+#include demo/boxy.lua
 
 
 
