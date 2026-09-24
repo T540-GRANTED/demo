@@ -15,6 +15,7 @@
         ply.flipx = true
      --move left
 
+     --use conditional statements 
     elseif btn(1) then
     ply.x += move
     ply.flipx = false
